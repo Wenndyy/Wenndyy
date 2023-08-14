@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenndyy
-- 👀 I’m interested in Front-end Web developer and Flutter
-- 🌱 I’m currently learning Front-end Web developer and Flutter
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter
 
 <!---
 Wenndyy/Wenndyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
