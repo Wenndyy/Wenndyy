@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wenndyy
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Mobile Dev
 - 🌱 I’m currently learning Flutter
 
 <!---
