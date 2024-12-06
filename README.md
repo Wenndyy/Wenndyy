@@ -10,9 +10,6 @@
 <hr>
 [![Wendy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Wenndyy&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true)](https://github.com/Wenndyy)
 
-<a href="https://github.com/Wenndyy/Wenndyy">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenndyy&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
-</a>
 
 <hr>
 ### 🌐 Get in Touch :
