@@ -8,7 +8,6 @@
 [![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wenndyy&theme=dark&background=1F222E&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
-
 <a href="https://github.com/Wenndyy/github-readme-stats">
   <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenndyy&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
 </a>
@@ -16,7 +15,6 @@
 <hr>
 
 Social Media :
-<hr>
 <a href="https://www.linkedin.com/in/dyywen/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
