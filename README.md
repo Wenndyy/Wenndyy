@@ -15,7 +15,7 @@ My name is Wendy Noer Isnaeni  and I'm a Informatics Students at Telkom Universi
 ![Rakha's profile count](https://komarev.com/ghpvc/?username=Wenndyy&color=red) &nbsp;
 [![Rakha's GitHub Followers](https://img.shields.io/github/followers/Wenndyy?label=follow&style=social)](https://github.com/Wenndyy) &nbsp;
 
-[![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wenndyy&theme=dark&background=1F222E&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wenndyy&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <hr>
 
