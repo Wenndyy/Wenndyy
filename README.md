@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenndyy
 - 👀 I’m interested in Mobile Dev
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter, Java, and Kotlin
 
 ![Rakha's profile count](https://komarev.com/ghpvc/?username=Wenndyy&color=red) &nbsp;
 [![Rakha's GitHub Followers](https://img.shields.io/github/followers/Wenndyy?label=follow&style=social)](https://github.com/Wenndyy) &nbsp;
@@ -14,8 +14,9 @@
 </a>
 
 <hr>
-### 🌐 Get in Touch :
 
+Social Media :
+<hr>
 <a href="https://www.linkedin.com/in/dyywen/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
