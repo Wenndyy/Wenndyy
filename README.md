@@ -8,8 +8,10 @@
 [![Rakha's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wenndyy&theme=dark&background=1F222E&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
-[![Wendy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Wenndyy&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true)](https://github.com/Wenndyy)
 
+<a href="https://github.com/Wenndyy/github-readme-stats">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenndyy&layout=compact&bg_color=1F222e&title_color=fafafa&text_color=fafafa&icon_color=F8D866&hide_border=true" alt="github-readme-streak-stats">
+</a>
 
 <hr>
 ### 🌐 Get in Touch :
