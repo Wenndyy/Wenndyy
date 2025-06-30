@@ -46,7 +46,7 @@ My name is Wendy Noer Isnaeni  and I'm a Informatics Students at Telkom Universi
 <a href="https://www.linkedin.com/in/dyywen/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/dy.wen__">
+<a href="https://www.instagram.com/imwendybtw">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <a href="mailto:dywencreativity@gmail.com">
