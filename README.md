@@ -42,7 +42,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Wenndyy&color=red)
 ![Followers](https://img.shields.io/github/followers/Wenndyy?label=Followers&style=social)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wenndyy&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wenndyy)](https://git.io/streak-stats)
 
 ---
 
